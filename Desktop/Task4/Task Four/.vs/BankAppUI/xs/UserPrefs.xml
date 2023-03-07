@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{8D453CC6-F8E1-43B9-8180-218A519923F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankAppUI/Welcome.cs">
+    <Files>
+      <File FileName="BankAppUI/Program.cs" Line="1" Column="1" />
+      <File FileName="BankAppCore/db/Accounts.json" Line="1" Column="1" />
+      <File FileName="BankAppCore/Helper/ReadWriteToJson.cs" Line="1" Column="1" />
+      <File FileName="BankAppCore/Models/Users.cs" Line="19" Column="9" />
+      <File FileName="BankAppCore/Models/Accounts.cs" Line="1" Column="1" />
+      <File FileName="BankAppCore/Models/Roles.cs" Line="1" Column="1" />
+      <File FileName="BankAppCore/db/Transactions.json" Line="1" Column="1" />
+      <File FileName="BankAppCore/Models/Transactions.cs" Line="1" Column="1" />
+      <File FileName="BankAppCore/Services/AccountService.cs" Line="1" Column="1" />
+      <File FileName="BankAppCore/Services/AccountOperations.cs" Line="1" Column="1" />
+      <File FileName="BankAppCore/Services/TransactionsService.cs" Line="1" Column="1" />
+      <File FileName="BankAppCore/Services/AuthService.cs" Line="1" Column="1" />
+      <File FileName="BankAppCore/Services/UserService.cs" Line="1" Column="1" />
+      <File FileName="BankAppUI/GlobalVariable.cs" Line="1" Column="1" />
+      <File FileName="BankAppUI/Welcome.cs" Line="27" Column="10" />
+      <File FileName="BankAppUI/Register.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankAppUI" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BankAppUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

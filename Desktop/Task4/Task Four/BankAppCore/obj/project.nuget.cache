@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NKPuQQuHYaSD2bBssH7QN+CUriOqq5ctaRwKv47IW71/dhSqw/tO6lHE+AYTUWoPoy1I83WRGOGdMfPG/GaagA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DECAGON\\Desktop\\Task4\\Task Four\\BankAppCore\\BankAppCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DECAGON\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

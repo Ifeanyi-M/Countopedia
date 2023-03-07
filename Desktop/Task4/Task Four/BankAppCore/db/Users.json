@@ -1,0 +1,24 @@
+{
+  "Id": "e29844c5-10eb-44a5-a0a9-b922b1cdec9b",
+  "FullName": "Admin Admin",
+  "EmailAddress": "admin@gmail.com",
+  "MobileNumber": "08027313450",
+  "Password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+  "IsActive": false,
+  "IsAdmin": true,
+  "Age": 100,
+  "Created_at": "2021-07-29T14:23:17.6712259+01:00"
+}
+
+{
+  "Id": "8128de72-8bec-4ad7-b229-f36fdde235b0",
+  "FullName": "Michael Michael",
+  "EmailAddress": "test@gmail.com",
+  "MobileNumber": "08027313450",
+  "Password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+  "IsActive": true,
+  "IsAdmin": false,
+  "Age": 33,
+  "Created_at": "2021-07-31T02:50:54.6721195+01:00"
+}
+{"Id":"7cb877b3-52f4-45f4-be76-87c43cf73e6c","FullName":"Christy Olaitan","EmailAddress":"christy@gmail.com","MobileNumber":"08033655089","Password":"f44a5287103ca5d2f489ff611ad6e37788380e027c87014aa49de47b7fb30650","IsActive":true,"IsAdmin":false,"Age":31,"Created_at":"2021-08-01T12:51:15.124448+01:00"}
